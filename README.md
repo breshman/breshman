@@ -2,10 +2,12 @@
 
 ```javascript
 const peru = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, NodeJs, SQL, MySql],
-  tools: [Angular, NestJS],
+  name: "Miguel" | "Breshman",
+  code: [Javascript, Typescript, HTML, CSS, NodeJs, Git],
+  dataBase: [SQL, MySql, MongoDB]
+  framework: [Angular, NestJS, Vue],
   architecture: [],
- challenge: "Aprender Flutter"
+  challenge: "Aprender Dart && Flutter",
+  options: [Photoshop, Illustrator, Premiere]
 }
 ```
