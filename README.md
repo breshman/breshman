@@ -9,7 +9,7 @@ const peru = {
   dataBase: ["SQL", "MySql", "MongoDB"],
   framework: ["Angular", "Ionic", "NestJS", "Vue", "Flutter"],
   architecture: [],
-  challenge: "Aprender Python",
+  challenge: ["Aprender Python", "Aprender android y kotlin"],
   options: ["Photoshop", "Illustrator", "Premiere"]
 }
 ```
